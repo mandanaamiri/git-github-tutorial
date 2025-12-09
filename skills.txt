@@ -1,0 +1,5 @@
+Programming in Python
+Programming in C
+Object-oriented Programming
+SQL and simple databases management
+Machine learning fundamentals
