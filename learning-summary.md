@@ -14,6 +14,5 @@ git push
 git fetch
 git pull
 git diff (commit1 commit2)
-2. چالش‌ها: هنوز هم متوجه merge نشدم
-  فایل skills هم یک دفعه ناپدید شد
+2. چالش‌ها: بار اول نتونستم برنچ جدید رو به گیتهاب پوش کنم و مرج نشد
 3. نکات کلیدی: branch - push - revert
